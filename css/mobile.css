@@ -30,6 +30,7 @@ main {
   justify-content: center;
   flex-wrap: wrap;
   position: relative;
+  overflow: hidden;
 }
 .top-banner {
   width: 100%;
