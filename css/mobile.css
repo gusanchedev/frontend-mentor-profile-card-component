@@ -7,11 +7,17 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 body {
   font-size: 18px;
   font-family: "Kumbh Sans", sans-serif;
   background-color: var(--dark-cyan);
+  background-image: url("../images/bg-pattern-top.svg"),
+    url("../images/bg-pattern-bottom.svg");
+  background-size: 100vh 100vh;
+  background-position: top -350px left -500px, bottom -350px left 200px;
+  background-repeat: no-repeat;
 }
 main {
   width: 100vw;
