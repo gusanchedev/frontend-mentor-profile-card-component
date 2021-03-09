@@ -22,6 +22,7 @@ main {
 }
 .user-card {
   width: 86%;
+  max-width: 350px;
   max-height: 365px;
   border-radius: 15px;
   background-color: white;
