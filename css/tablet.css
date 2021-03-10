@@ -1,0 +1,5 @@
+body {
+    background-size: 100vh 100vh;
+    background-position: top -350px right 450px, bottom -400px left 450px;
+    background-repeat: no-repeat;
+  }
